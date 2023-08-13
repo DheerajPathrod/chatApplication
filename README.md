@@ -1,4 +1,5 @@
-#LetsChat
+LetsChat
+
 
 1. Implemented a Chat application for.
 2. Developed chat functionality using socket.io.
